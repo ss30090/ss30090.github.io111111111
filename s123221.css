@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+img{
+  box-sizing: border-box;
+  border: 20px solid;
+  color: brown;
+  width: 70%;
+  height: 70%;
+  border-left-style: inset;
+  border-right-style: outset;
+}
