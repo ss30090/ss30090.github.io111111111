@@ -15,7 +15,7 @@ img{
   border-left-style: inset;
   border-right-style: outset;
 }
-#img\ master{
+#img-master{
   box-sizing: border-box;
   border: 20px solid lightskyblue;
   border-left-style: double;
